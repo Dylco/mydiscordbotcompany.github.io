@@ -4,6 +4,9 @@ h1 {
     font-family: 'Courier New', Courier, monospace;
     text-align: center;
   } 
-image {
-  background-image: -webkit-image-set();
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
 }
