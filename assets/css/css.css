@@ -10,3 +10,12 @@ center {
   margin-right: auto;
   width: 50%;
 }
+p {
+  color: black;
+  font-size: ;
+  text-align: left;
+  font-family: 'Times New Roman', Times, serif;
+}
+p1 {
+  color: blueviolet;
+}
