@@ -16,3 +16,6 @@ p {
   text-align: left;
   font-family: 'Times New Roman', Times, serif;
 }
+button {
+  size: 25px;
+}
