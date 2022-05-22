@@ -17,5 +17,8 @@ p {
   font-family: 'Times New Roman', Times, serif;
 }
 button {
-  size: 25px;
+  size: 35px;
+}
+img {
+  size: 50px;
 }
